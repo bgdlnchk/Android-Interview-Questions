@@ -46,6 +46,7 @@ Topics:
 * What is Java's Garbage Collection and how does it help you as a developer?
 * How can you typecast in Java? [[info]](http://www.studytonight.com/java/type-casting-in-java)
 * Explain Java's try-catch-finally paradigm [[info]](http://www.studytonight.com/java/try-and-catch-block.php)
+* Which sorting algorithms do you know?
 
 ## Core Android
 * How does the Android notification system work?
